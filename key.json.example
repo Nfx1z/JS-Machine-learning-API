@@ -1,0 +1,13 @@
+{
+  "type": "example",
+  "project_id": "example-project",
+  "private_key_id": "example_key_id",
+  "private_key": "example_private",
+  "client_email": "example_client_",
+  "client_id": "example_client_id",
+  "auth_uri": "https://example.com/auth",
+  "token_uri": "https://example.com/token",
+  "auth_provider_x509_cert_url": "https://example.com/auth",
+  "client_x509_cert_url": "https://example.com/client_x509,
+  "universe_domain": "example.com"
+}
